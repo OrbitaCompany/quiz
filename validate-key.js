@@ -1,3 +1,4 @@
+javascript
 import { encrypt } from '../../lib/encryption';
 import { quizzes } from '../../lib/quiz-templates';
 
